@@ -6,8 +6,6 @@
 This project simulates an operations analytics engagement for a freight company named Logihaul Operations.  
 Using a simulated shipment dataset, I prepared and cleaned data in **Python (pandas)**, then built a **Tableau dashboard** to evaluate delivery performance, costs, and shipment volumes across regions and weeks.  
 
-The project demonstrates an end-to-end workflow: data wrangling → KPI definition → visualization → insights.
-
 ---
 
 ## Key Performance Indicators (KPIs)
