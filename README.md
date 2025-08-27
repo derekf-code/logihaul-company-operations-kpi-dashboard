@@ -1,6 +1,6 @@
 # Logihaul Operations KPI Dashboard
 
-![Freight Dashboard Preview](outputs/freight_dashboard.png)
+![Freight Dashboard Preview](logihaul_dashboard.png)
 
 ## Overview
 This project simulates an operations analytics engagement for a freight company named Logihaul Operations.  
