@@ -49,4 +49,4 @@ The project demonstrates an end-to-end workflow: data wrangling → KPI definiti
 ---
 
 ## Author
-Project completed by **[Your Name]** — UMass Amherst (Isenberg School of Management, OIM/MIS).  
+Project completed by **Derek F.** — UMass Amherst (Isenberg School of Management).  
