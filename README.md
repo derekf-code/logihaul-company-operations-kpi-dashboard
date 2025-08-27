@@ -32,7 +32,7 @@ The project demonstrates an end-to-end workflow: data wrangling → KPI definiti
 ---
 
 ## Deliverables
-- 📊 [Interactive Tableau Dashboard](LINK_TO_YOUR_TABLEAU_PUBLIC_PROJECT)  
+- 📊 [Interactive Tableau Dashboard](https://public.tableau.com/views/LogiHaulLogisticsDashboardSimulatedData/LogiHaulLogistics-WeeklyFreightPerformanceBoard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 - 🖼️ `freight_dashboard.png` — exported dashboard image  
 - 📄 `freight_kpi_memo.pdf` — 1-page executive memo  
 - 📑 `clean_shipments.csv` — cleaned dataset  
